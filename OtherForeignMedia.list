@@ -1,0 +1,123 @@
+# (OtherForeignMedia)
+# (Video)
+# > All4
+USER-AGENT,All4*,OtherForeignMedia
+DOMAIN-SUFFIX,c4assets.com,OtherForeignMedia
+DOMAIN-SUFFIX,channel4.com,OtherForeignMedia
+# > AbemaTV
+USER-AGENT,AbemaTV*,OtherForeignMedia
+DOMAIN-SUFFIX,abema.io,OtherForeignMedia
+DOMAIN-SUFFIX,ameba.jp,OtherForeignMedia
+DOMAIN-SUFFIX,hayabusa.io,OtherForeignMedia
+DOMAIN,abematv.akamaized.net,OtherForeignMedia
+DOMAIN,ds-linear-abematv.akamaized.net,OtherForeignMedia
+DOMAIN,ds-vod-abematv.akamaized.net,OtherForeignMedia
+DOMAIN,linear-abematv.akamaized.net,OtherForeignMedia
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,OtherForeignMedia
+USER-AGENT,Prime%20Video*,OtherForeignMedia
+DOMAIN-SUFFIX,primevideo.com,OtherForeignMedia
+# > Bahamut
+USER-AGENT,Anime*,OtherForeignMedia
+DOMAIN-SUFFIX,bahamut.com.tw,OtherForeignMedia
+DOMAIN-SUFFIX,gamer.com.tw,OtherForeignMedia
+DOMAIN,gamer-cds.cdn.hinet.net,OtherForeignMedia
+DOMAIN,gamer2-cds.cdn.hinet.net,OtherForeignMedia
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*,OtherForeignMedia
+DOMAIN-SUFFIX,bbc.co.uk,OtherForeignMedia
+DOMAIN-SUFFIX,bbci.co.uk,OtherForeignMedia
+DOMAIN-KEYWORD,bbcfmt,OtherForeignMedia
+DOMAIN-KEYWORD,uk-live,OtherForeignMedia
+# > DAZN
+USER-AGENT,DAZN*,OtherForeignMedia
+DOMAIN-SUFFIX,dazn.com,OtherForeignMedia
+# > encoreTVB
+USER-AGENT,encoreTVB*,OtherForeignMedia
+DOMAIN-SUFFIX,encoretvb.com,OtherForeignMedia
+DOMAIN,content.jwplatform.com,OtherForeignMedia
+DOMAIN,videos-f.jwpsrv.com,OtherForeignMedia
+# > Fox+ & Fox Now
+USER-AGENT,FOX%20NOW*,OtherForeignMedia
+USER-AGENT,FOXPlus*,OtherForeignMedia
+DOMAIN-SUFFIX,dashasiafox.akamaized.net,OtherForeignMedia
+DOMAIN-SUFFIX,fox.com,OtherForeignMedia
+DOMAIN-SUFFIX,foxdcg.com,OtherForeignMedia
+DOMAIN-SUFFIX,foxplus.com,OtherForeignMedia
+DOMAIN-SUFFIX,staticasiafox.akamaized.net,OtherForeignMedia
+DOMAIN-SUFFIX,theplatform.com,OtherForeignMedia
+DOMAIN-SUFFIX,uplynk.com,OtherForeignMedia
+# > HBO Now & HBO GO
+USER-AGENT,HBO%20NOW*,OtherForeignMedia
+USER-AGENT,HBO%20GO*,OtherForeignMedia
+USER-AGENT,HBOAsia*,OtherForeignMedia
+DOMAIN-SUFFIX,hbo.com,OtherForeignMedia
+DOMAIN-SUFFIX,hbogo.com,OtherForeignMedia
+DOMAIN-SUFFIX,hboasia.com,OtherForeignMedia
+DOMAIN-SUFFIX,hbogo.com,OtherForeignMedia
+DOMAIN-SUFFIX,hbogoasia.hk,OtherForeignMedia
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,OtherForeignMedia
+DOMAIN,bcbolthboa-a.akamaihd.net,OtherForeignMedia
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,OtherForeignMedia
+DOMAIN,manifest.prod.boltdns.net,OtherForeignMedia
+DOMAIN,s3-ap-southeast-1.amazonaws.com,OtherForeignMedia
+# > Hulu
+DOMAIN-SUFFIX,hulu.com,OtherForeignMedia
+DOMAIN-SUFFIX,huluim.com,OtherForeignMedia
+DOMAIN-SUFFIX,hulustream.com,OtherForeignMedia
+# > KKTV
+USER-AGENT,KKTV*,OtherForeignMedia
+USER-AGENT,com.kktv.ios.kktv*,OtherForeignMedia
+DOMAIN-SUFFIX,kktv.com.tw,OtherForeignMedia
+DOMAIN-SUFFIX,kktv.me,OtherForeignMedia
+DOMAIN,kktv-theater.kk.stream,OtherForeignMedia
+# > Line TV
+USER-AGENT,LINE%20TV*,OtherForeignMedia
+DOMAIN-SUFFIX,linetv.tw,OtherForeignMedia
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,OtherForeignMedia
+# > Hulu(フールー)
+DOMAIN-SUFFIX,happyon.jp,OtherForeignMedia
+DOMAIN-SUFFIX,hulu.jp,OtherForeignMedia
+# > LiTV
+DOMAIN-SUFFIX,litv.tv,OtherForeignMedia
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,OtherForeignMedia
+# > myTV_SUPER
+USER-AGENT,mytv*,OtherForeignMedia
+DOMAIN-SUFFIX,mytvsuper.com,OtherForeignMedia
+DOMAIN-SUFFIX,tvb.com,OtherForeignMedia
+# > PBS
+USER-AGENT,PBS*,OtherForeignMedia
+DOMAIN-SUFFIX,pbs.org,OtherForeignMedia
+# > Twitch
+DOMAIN-SUFFIX,twitch.tv,OtherForeignMedia
+DOMAIN-SUFFIX,twitchcdn.net,OtherForeignMedia
+DOMAIN-SUFFIX,ttvnw.net,OtherForeignMedia
+# > Viu(TV)
+USER-AGENT,Viu*,OtherForeignMedia
+USER-AGENT,ViuTV*,OtherForeignMedia
+DOMAIN-SUFFIX,viu.com,OtherForeignMedia
+DOMAIN-SUFFIX,viu.tv,OtherForeignMedia
+DOMAIN,api.viu.now.com,OtherForeignMedia
+DOMAIN,d1k2us671qcoau.cloudfront.net,OtherForeignMedia
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,OtherForeignMedia
+DOMAIN,dfp6rglgjqszk.cloudfront.net,OtherForeignMedia
+
+# (Music)
+# > Deezer
+USER-AGENT,Deezer*,OtherForeignMedia
+DOMAIN-SUFFIX,deezer.com,OtherForeignMedia
+DOMAIN-SUFFIX,dzcdn.net,OtherForeignMedia
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com,OtherForeignMedia
+DOMAIN-SUFFIX,kkbox.com.tw,OtherForeignMedia
+DOMAIN-SUFFIX,kfs.io,OtherForeignMedia
+# > JOOX
+USER-AGENT,WeMusic*,OtherForeignMedia
+USER-AGENT,JOOX*,OtherForeignMedia
+DOMAIN-SUFFIX,joox.com,OtherForeignMedia
+# > Pandora
+USER-AGENT,Pandora*,OtherForeignMedia
+DOMAIN-SUFFIX,pandora.com,OtherForeignMedia
+# > TIDAL
+USER-AGENT,TIDAL*,OtherForeignMedia
+DOMAIN-SUFFIX,tidal.com,OtherForeignMedia
